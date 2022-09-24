@@ -1,0 +1,30 @@
+html, body {
+  background-color: grey;
+  height: 100%;
+  width: 80%;
+}
+
+p {
+   color: white;
+   font: 15px Arial, sans-serif;
+  background-color: black;
+}
+h1 {
+  text-align: center;
+  color: red;
+  font: italic small-caps bold 12px/30px Georgia, serif;
+background-color: purple;
+}
+h2 {
+  text-align: center;
+  color: green;
+  font-family: "Times New Roman", Times, serif;
+background-color: blue;
+}
+
+main {
+  background-color: #804040;
+}
+footer {
+  background-color: yellow;
+}
