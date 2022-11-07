@@ -1,0 +1,35 @@
+.fire {
+  height; 300px;
+}
+
+main {
+  background-color: ##ffbbff
+  
+}
+
+body {
+ background-image: url("316.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.unclewrapper {
+  width: 60%
+  margin: auto;
+  margin-top: 30px;
+  
+}
+
+ul {
+  list-style-image: url('marioworld.png');
+}
+
+.specialborder {
+ border-image-slice: 12 12 12 12;
+border-image-width: 12px 12px 12px 12px;
+border-image-outset: 0px 0px 0px 0px;
+border-image-repeat: repeat repeat;
+border-image-source: url("https://mdn.github.io/css-examples/tools/border-image-generator/border-image-5.png");
+border-style: solid; 
+  
+}

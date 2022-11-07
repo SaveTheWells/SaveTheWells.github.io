@@ -1,0 +1,48 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #478d8d;
+}
+
+h1, h2, h3{
+  text-align: center;
+}
+
+#wrapper {
+  width: 80%;
+  margin: auto;
+  background-color: #bbac44;
+  box-shadow: 5px 10px;
+}
+
+div {
+ background-color: green; 
+  width: 90%;
+  margin: auto;
+}
+
+.itembox {
+  border: 2px;
+  border-radius: 25px;
+  box-shadow: 5px 10px;
+  background-color: #2cc2d3;
+  color: pink;
+  padding: 20px;
+}
+
+.favorite {
+  border: 5px;
+  border-radius: 25px;
+  box-shadow: 5px 10px;
+  background-color: #fbfac8;
+  color: #ff778e;
+  padding: 20px;
+}
+
+ul {
+  list-style-position: outside;
+  background-color: #b9b9ff;
+}
